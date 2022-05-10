@@ -1,1 +1,2 @@
-# Unicorn-Companies
+# Unicorn Companies
+A unicorn is a privately held starup company with a valuation over $1 billion USD. For a starup, becoming a unicorn would attract more investors and thus get more financial support to grow its business. For an investor, investing unicorns could benefit from high returns if they went IPO or were acquired by big companies. In 2021, stock market experienced a sharp rally after a huge drop in 2020. During this period, more and more unicorns drew investor's attention as they realized these investment opportunities could potentially double their investment. I am interested in investment and always explore the trend in the finacial market. Therefore I chose to do a data analysis of the Unicorn Companies Dataset.
